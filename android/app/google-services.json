@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543839448256",
+    "project_id": "delivery--el-porvenir-steaks",
+    "storage_bucket": "delivery--el-porvenir-steaks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543839448256:android:9f58c2f717f07c54391125",
+        "android_client_info": {
+          "package_name": "com.example.tarea2_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlInrstsEP8b3vetlMAWEL0j9DXhim-0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
